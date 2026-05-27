@@ -233,3 +233,10 @@ O sistema monitora:
 - umidade do solo;
 - luminosidade;
 - risco de seca via monitoramento orbital simulado.
+
+---
+## 🚀 Diferencial do Projeto
+
+O projeto utiliza conceitos de Edge Computing ao realizar o processamento local dos sensores diretamente no Arduino, reduzindo dependência de processamento externo.
+
+Além disso, foi implementada uma lógica inspirada em monitoramento orbital, simulando como satélites agrícolas podem prever risco de seca com base em condições ambientais.
