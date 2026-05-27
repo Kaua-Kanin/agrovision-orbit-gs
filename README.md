@@ -224,5 +224,12 @@ Representando risco de seca previsto por monitoramento orbital.
 ### Circuito no Tinkercad
 
 ![Circuito-Funcionado](imagens/sistema.funcionando.png)
-![Circuito](imagens/circuito.arduino.png)
 
+### Funcionamento do Sistema
+![Circuito](imagens/circuito.arduino.png)
+O sistema monitora:
+
+- temperatura;
+- umidade do solo;
+- luminosidade;
+- risco de seca via monitoramento orbital simulado.
