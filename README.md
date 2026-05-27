@@ -235,6 +235,20 @@ O sistema monitora:
 - risco de seca via monitoramento orbital simulado.
 
 ---
+
+## 🔗 Links do Projeto
+
+### Simulação no Tinkercad
+Projeto completo disponível para visualização e testes:
+
+➡️ [Abrir Simulação](https://www.tinkercad.com/things/hTPfWpEcRGt/editel?returnTo=%2Fdashboard&sharecode=s_KQ0nCBPft5fLleGW6u2gOECgqKhAne2rX20_HMSuE)
+
+### Repositório GitHub
+Código-fonte e documentação do projeto:
+
+➡️ https://github.com/Kaua-Kanin/agrovision-orbit-gs
+
+---
 ## 🚀 Diferencial do Projeto
 
 O projeto utiliza conceitos de Edge Computing ao realizar o processamento local dos sensores diretamente no Arduino, reduzindo dependência de processamento externo.
