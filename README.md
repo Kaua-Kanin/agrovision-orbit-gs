@@ -182,6 +182,35 @@ Essa funcionalidade representa como dados espaciais podem auxiliar agricultores 
 
 ---
 
+## ▶️ Instruções de Execução
+
+1. Monte o circuito no Tinkercad conforme a estrutura apresentada.
+
+2. Faça upload do arquivo `codigo_arduino.ino` no Arduino Uno.
+
+3. Inicie a simulação no Tinkercad.
+
+4. Teste os sensores:
+
+### 🌡️ Temperatura
+Altere a temperatura do sensor TMP36.
+
+### 💧 Umidade
+Gire o potenciômetro para simular diferentes níveis de umidade do solo.
+
+### ☀️ Luminosidade
+Ajuste a intensidade do sensor LDR.
+
+### 🛰️ Alerta Satelital
+O alerta será acionado automaticamente quando:
+
+- temperatura > 38°C
+- umidade < 40%
+
+Representando risco de seca previsto por monitoramento orbital.
+
+---
+
 ## 💻 Tecnologias Utilizadas
 
 - Arduino IDE (C++)
@@ -189,3 +218,11 @@ Essa funcionalidade representa como dados espaciais podem auxiliar agricultores 
 - Arduino Uno
 - Sensores analógicos
 - Edge Computing
+
+## 📷 Imagens do Projeto
+
+### Circuito no Tinkercad
+
+![Circuito-Funcionado](imagens/sistema.funcionando.png)
+![Circuito](imagens/circuito.arduino.png)
+
